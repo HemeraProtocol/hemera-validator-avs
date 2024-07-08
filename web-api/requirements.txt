@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Caching==2.3.0
+flask-limiter==3.7.0
+flask-marshmallow==1.2.1
+flask-restx==1.3.0
+Werkzeug==3.0.3
+web3==6.20.0
+gunicorn==21.2.0
